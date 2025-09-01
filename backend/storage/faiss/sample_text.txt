@@ -1,0 +1,3 @@
+This is a sample text document for testing the RAG app.
+It contains simple sentences about FastAPI, Python, and AI.
+You can use this text to test retrieval and answer generation.
